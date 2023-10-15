@@ -9,7 +9,7 @@
 1. リポジトリをクローン
 
     ```zsh
-    git clone https://github.com/shinodadada/lyric_summary.git
+    git clone https://github.com/ShinodaHyuga/lyric_summary.git
     ```
 
 2. Anaconda環境を作成
